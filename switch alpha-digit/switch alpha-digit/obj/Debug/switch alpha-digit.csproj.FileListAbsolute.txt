@@ -1,0 +1,7 @@
+D:\c sharp course\switch alpha-digit\switch alpha-digit\bin\Debug\switch alpha-digit.exe.config
+D:\c sharp course\switch alpha-digit\switch alpha-digit\bin\Debug\switch alpha-digit.exe
+D:\c sharp course\switch alpha-digit\switch alpha-digit\bin\Debug\switch alpha-digit.pdb
+D:\c sharp course\switch alpha-digit\switch alpha-digit\obj\Debug\switch alpha-digit.csprojAssemblyReference.cache
+D:\c sharp course\switch alpha-digit\switch alpha-digit\obj\Debug\switch alpha-digit.csproj.CoreCompileInputs.cache
+D:\c sharp course\switch alpha-digit\switch alpha-digit\obj\Debug\switch alpha-digit.exe
+D:\c sharp course\switch alpha-digit\switch alpha-digit\obj\Debug\switch alpha-digit.pdb

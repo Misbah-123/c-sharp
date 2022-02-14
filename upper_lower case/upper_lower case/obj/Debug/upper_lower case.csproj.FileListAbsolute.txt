@@ -1,0 +1,7 @@
+D:\c sharp course\upper_lower case\upper_lower case\bin\Debug\upper_lower case.exe.config
+D:\c sharp course\upper_lower case\upper_lower case\bin\Debug\upper_lower case.exe
+D:\c sharp course\upper_lower case\upper_lower case\bin\Debug\upper_lower case.pdb
+D:\c sharp course\upper_lower case\upper_lower case\obj\Debug\upper_lower case.csprojAssemblyReference.cache
+D:\c sharp course\upper_lower case\upper_lower case\obj\Debug\upper_lower case.csproj.CoreCompileInputs.cache
+D:\c sharp course\upper_lower case\upper_lower case\obj\Debug\upper_lower case.exe
+D:\c sharp course\upper_lower case\upper_lower case\obj\Debug\upper_lower case.pdb

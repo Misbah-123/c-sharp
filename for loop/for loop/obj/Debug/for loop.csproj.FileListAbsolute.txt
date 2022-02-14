@@ -1,0 +1,7 @@
+D:\c sharp course\for loop\for loop\bin\Debug\for loop.exe.config
+D:\c sharp course\for loop\for loop\bin\Debug\for loop.exe
+D:\c sharp course\for loop\for loop\bin\Debug\for loop.pdb
+D:\c sharp course\for loop\for loop\obj\Debug\for loop.csprojAssemblyReference.cache
+D:\c sharp course\for loop\for loop\obj\Debug\for loop.csproj.CoreCompileInputs.cache
+D:\c sharp course\for loop\for loop\obj\Debug\for loop.exe
+D:\c sharp course\for loop\for loop\obj\Debug\for loop.pdb

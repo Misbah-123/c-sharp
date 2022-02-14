@@ -1,0 +1,7 @@
+D:\c sharp course\switch case\switch case\bin\Debug\switch case.exe.config
+D:\c sharp course\switch case\switch case\bin\Debug\switch case.exe
+D:\c sharp course\switch case\switch case\bin\Debug\switch case.pdb
+D:\c sharp course\switch case\switch case\obj\Debug\switch case.csprojAssemblyReference.cache
+D:\c sharp course\switch case\switch case\obj\Debug\switch case.csproj.CoreCompileInputs.cache
+D:\c sharp course\switch case\switch case\obj\Debug\switch case.exe
+D:\c sharp course\switch case\switch case\obj\Debug\switch case.pdb

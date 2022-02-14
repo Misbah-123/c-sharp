@@ -1,0 +1,7 @@
+D:\c sharp course\factorial\factorial\obj\Debug\factorial.csprojAssemblyReference.cache
+D:\c sharp course\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+D:\c sharp course\factorial\factorial\bin\Debug\factorial.exe.config
+D:\c sharp course\factorial\factorial\bin\Debug\factorial.exe
+D:\c sharp course\factorial\factorial\bin\Debug\factorial.pdb
+D:\c sharp course\factorial\factorial\obj\Debug\factorial.exe
+D:\c sharp course\factorial\factorial\obj\Debug\factorial.pdb
